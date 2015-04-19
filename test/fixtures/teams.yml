@@ -1,0 +1,66 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+kentucky:
+ name: Kentucky
+ rank: 1
+ mbracket: ncaa
+duke:
+ name: Duke
+ rank: 2
+ mbracket: ncaa
+albany:
+ name: Albany
+ rank: 3
+ mbracket: ncaa
+dayton:
+ name: Dayton
+ rank: 4
+ mbracket: ncaa
+virginia:
+ name: Virginia
+ rank: 5
+ mbracket: ncaa
+stjohns:
+ name: St. John's
+ rank: 6
+ mbracket: ncaa
+utah:
+ name: "Utah"
+ rank: "7"
+ mbracket: ncaa
+indiana:
+ name: "Indiana"
+ rank: "8"
+ mbracket: ncaa
+gonzaga:
+ name: "Gonzaga"
+ rank: "9"
+ mbracket: ncaa
+louisville:
+ name: "Louisville"
+ rank: "10"
+ mbracket: ncaa
+kansas:
+ name: "Kansas"
+ rank: "11"
+ mbracket: ncaa
+temple:
+ name: "Temple"
+ rank: "12"
+ mbracket: ncaa
+wvu:
+ name: "West Virginia"
+ rank: "13"
+ mbracket: ncaa
+georgia:
+ name: "Georgia"
+ rank: "14"
+ mbracket: ncaa
+ohiost:
+ name: "Ohio St"
+ rank: "15"
+ mbracket: ncaa
+purdue:
+ name: "Purdue"
+ rank: "16"
+ mbracket: ncaa
